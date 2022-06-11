@@ -1,7 +1,2 @@
 git push test!
-git rebase conflict resolve
-git resolve seoncd conflict
-this is second test repo
-change email and username test
-unknown email test?
-resolve third conflict
+dev branch resolve pull conflict
