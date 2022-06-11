@@ -1,2 +1,3 @@
 git push test!
 dev branch resolve pull conflict
+writed from dev branch
